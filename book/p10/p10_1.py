@@ -10,6 +10,7 @@ with open(file_name) as file_object:
 
 print("\n")
 file_name = 'learning_python.txt'
+"""打印文件每行内容存储在列表中"""
 pages = []
 with open(file_name) as file_object:
     for line in file_object:

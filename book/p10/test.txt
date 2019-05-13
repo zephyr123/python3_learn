@@ -1,0 +1,1611 @@
+The Project Gutenberg EBook of USDA Farmers' Bulletin No. 1014: Wintering
+Bees in Cellars, by E. F. Phillips and George S. Demuth
+
+This eBook is for the use of anyone anywhere in the United States and most
+other parts of the world at no cost and with almost no restrictions
+whatsoever.  You may copy it, give it away or re-use it under the terms of
+the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org.  If you are not located in the United States, you'll have
+to check the laws of the country where you are located before using this ebook.
+
+Title: USDA Farmers' Bulletin No. 1014: Wintering Bees in Cellars
+
+Author: E. F. Phillips
+        George S. Demuth
+
+Release Date: May 12, 2019 [EBook #59485]
+
+Language: English
+
+
+*** START OF THIS PROJECT GUTENBERG EBOOK USDA FARMERS' BULLETIN NO. 1014 ***
+
+
+
+
+Produced by Tom Cosmas compiled from images made available
+by The Internet Archive.
+
+
+
+
+
+
+
+
+
+
+                       WINTERING BEES IN CELLARS
+
+
+                     E. F. PHILLIPS, Apiculturist
+
+                                  and
+
+                GEORGE S. DEMUTH, Apicultural Assistant
+
+                         Bureau of Entomology
+
+
+                            [Illustration]
+
+
+
+
+    FARMERS' BULLETIN 1014 UNITED STATES DEPARTMENT OF AGRICULTURE
+
+
+
+              Contribution from the Bureau of Entomology
+
+                          L. O. HOWARD. Chief
+
+
+
+                   Washington, D. C. September, 1918
+
+
+
+Show this bulletin to a neighbor. Additional copies may be obtained
+free from the Division of Publications, United States Department of
+Agriculture
+
+WASHINGTON GOVERNMENT PRINTING OFFICE : 1918
+
+
+RESULTS from wintering bees in a cellar are excellent when conditions
+in the cellar are such as to keep the bees from wearing themselves
+out by excessive activity. Cellar wintering is practicable where the
+average outdoor temperature during the winter months is as low as 25бу
+F. A map is given (p. 3) so that the beekeeper may know whether this
+method is advisable in his locality.
+
+The cellar should be arranged so that the ceiling is below the frost
+line, and so that the ceiling and side walls are thoroughly protected
+at all points. The cellar should be kept so that the lowest temperature
+within the hives is at least 52бу F. At this temperature there will be
+little need of special ventilating arrangements. There should be no
+condensation of moisture within the hives, and the cellar should be
+well drained.
+
+Bees should be put into the cellar after a good flight in late
+November, or earlier in the more northern localities. They should be
+removed when fresh pollen and nectar are available, usually about the
+last of March.
+
+Soon after the hives are placed on their summer stands, each colony
+should be given additional stores and room for the development of a
+large quantity of brood.
+
+It is important that none of the factors of good wintering be omitted.
+Several tests are given in this bulletin so that the beekeeper may
+determine whether his cellar is a satisfactory place for wintering
+bees.
+
+
+
+
+WINTERING BEES IN CELLARS.
+
+
+
+
+CONTENTS.
+
+
+                                                         Page.
+
+  Cellar wintering versus outdoor wintering                 3
+
+  Where is cellar wintering advisable                       4
+
+  Essentials to success                                     5
+
+  Necessity of strong colonies in the fall                  5
+
+  Winter stores                                             6
+
+  Arrangement of the apiary                                 7
+
+  The bee cellar                                            7
+
+  Putting the bees into the cellar                         12
+
+  Maintenance of the cellar during the winter              13
+
+  Removal of the bees from the cellar                      17
+
+  Providing breeding room and stores in the spring         19
+
+  Measures of success in cellar wintering                  20
+
+
+
+
+CELLAR WINTERING VERSUS OUTDOOR WINTERING.
+
+
+Bees in the more northern parts of the United States for many years
+have been placed by some of the best beekeepers in cellars or special
+repositories during the coldest parts of the winter. There has been a
+growing feeling, however, that if outdoor wintering is practicable, in
+most cases it gives better results, and there has been a decided change
+from cellar wintering to outdoor wintering within the past decade. The
+difficulty seems to be that the methods of cellar wintering practiced
+have not been satisfactory and it seems probable that if as much
+attention had been given, to the perfection of the methods of cellar
+wintering as has been given to an improvement of the methods of outdoor
+wintering, there would not have been as great a change to the outdoor
+methods as has taken place.
+
+[Illustration: Fig. 1.--Map of the United States showing regions where
+cellar wintering is practicable, based on the average temperature of
+January. From data furnished by the United States Weather Bureau.]
+
+The placing of bees in a cellar is only another way of putting
+insulation about the hives, the only difference being that in the
+cellar all of the hives are protected alike and the protection is
+placed about the apiary instead of around hives in groups or singly.
+It follows that the principles which apply to successful outdoor
+wintering apply equally to the protection of the bees in the cellar.
+It is urged, therefore, that before attempting to winter bees in the
+cellar, the beekeeper study the bulletins[1] of the department in which
+these principles are set forth.
+
+[1] Department Bulletin 93, The Temperature of the Honeybee Cluster In
+Winter. Farmers' Bulletin 695, Outdoor Wintering of Bees.
+
+
+
+
+WHERE IS CELLAR WINTERING ADVISABLE?
+
+
+Before deciding whether or not the bees are to be wintered in a cellar,
+several factors should be considered, the chief of these being (1) the
+winter climate, (2) the kind of winter stores, and (3) the location of
+the apiary as regards wind protection.
+
+
+WINTER CLIMATE.
+
+In any locality where the average temperature of the winter months
+falls below 25бу F. (zone 1) cellar wintering may be practiced with
+profit, and in localities where the average temperature of these
+months falls as low as 15бу F. (zone 2) cellar wintering is much to
+be preferred. Figure 1 shows the boundaries of these zones for the
+United States for the month of January, which may be taken as typical
+of the winter months. It will be noted that these zones do not follow
+parallels of latitude. As was pointed out in the bulletin of the
+department on outdoor wintering,[2] it is quite possible to protect
+bees in zone 1 sufficiently to winter them outdoors, but if a proper
+cellar is provided, if conditions within the cellar are correct, and if
+the stores are good and the colonies are strong, just as good results
+may be obtained from cellar wintering.
+
+[2] Farmers' Bulletin 1012, Preparation of Bees for Outdoor Wintering.
+
+In zone 1 the average temperature of the outside air during the mouth
+of January is 25бу F., or lower in the more northern parts of the zone.
+This means that in colonies wintered outdoors the bees are compelled
+to overcome this degree of cold at all times during the coldest part
+of the winter. If they are so well packed that the heat which they
+generate is lost slowly, they are able to generate sufficient heat to
+make the interior of the hive warm enough to allow them to break their
+cluster as is necessary. In zone 2, however, the bees will be compelled
+to generate heat sufficient to overcome the more severe cold of that
+zone, and this calls for the expenditure by the bees of so much more
+food and vitality that it is more economical to put them in a good
+cellar during the months of the most severe cold, and cellar wintering
+is therefore preferable.
+
+
+CHARACTER OF WINTER STORES.
+
+In localities where the stores for the bees gathered during the latter
+part of the summer are not of the first quality, it is safer to winter
+the bees outdoors. This is a large factor in the placing of the zones
+shown in figure 1, for it is quite common in the region south of zone 1
+for the full honey to be of inferior quality. It is extremely fortunate
+that in both of the zones shown the stores available in winter are
+usually of the finest quality. As will be shown later, it is highly
+important that the beekeeper pay special attention to the character of
+the stores in the hive at the beginning of the winter, and if they are
+not as good as they should be, this deficiency should be corrected.
+
+
+LOCATION AS REGARDS WIND PROTECTION.
+
+In zone 1, if the apiary is so badly located that the winter winds are
+severe, the beekeeper will do well to winter in a cellar, although,
+as will be shown later, it is not best to choose such a site for the
+apiary even during the rest of the year.
+
+
+
+
+ESSENTIALS TO SUCCESS.
+
+
+As in the case of outdoor wintering, the essentials to success in
+caring for a normal colony of bees from the end of one season's
+honey-flow to the beginning of the next lie in providing three things
+in abundance: (1) Stores of good quality, (2) protection from wind
+and cold, and (3) room for the rearing of brood at appropriate times.
+These factors must not be lacking at the right times, and if any one
+is omitted it may prevent the bees from gathering the crop of the
+following season. These three factors do not apply equally throughout
+the period of relative inactivity, but as certainly as any one of them
+is decreased, just so certainly will the crop of the following year be
+reduced.
+
+In practicing cellar wintering it is unnecessary to leave so much honey
+with the bees during the time that they are in the cellar, and it is
+not necessary during that period to leave room for the rearing of
+brood. During the coldest part of the winter the bees need especially
+protection from cold and wind, although enough good stores must be in
+the hive to keep them through that period in good condition. Probably
+a large part of the failure of beekeepers in practicing cellar
+wintering comes from the fact that before and after the bees are in
+the cellar the important factors of stores and breeding room have not
+been adequately supplied. Before the bees are put into the cellar they
+must have room for breeding and stores in abundance, and after they
+are taken out these two factors must be present in greatly increased
+abundance.
+
+
+
+
+NECESSITY OF STRONG COLONIES IN THE FALL.
+
+
+As in the case of wintering outdoors, it is wasteful to attempt to
+winter weak colonies. It is difficult to set standards of colony
+strength at this season, but it is unwise to attempt to winter
+colonies that are not strong enough to have brood sufficient to fill
+three or four Langstroth frames two months before the first killing
+frost. If the colonies in the apiary are not of the proper strength,
+it is wise to unite until the proper strength is reached. Any uniting
+should be done before the close of brood-rearing.
+
+It is of the greatest importance that every colony have a good queen in
+order that brood-rearing may continue in the fall and may then again
+proceed rapidly in the spring. Usually it is best to requeen at least
+every two years, but if good wintering is practiced the colonies will
+come out of winter quarters so strong and will build up so rapidly
+in the spring that the queens will soon wear out, making it safer to
+requeen every year. To get the best results from requeening, all young
+queens should be introduced so that they begin to lay about two months
+before the first killing frost.
+
+
+
+
+WINTER STORES.
+
+
+The stores given to the bees from the end of one season to the
+beginning of the next are of the first importance. It is necessary to
+consider both the quality and the quantity of these stores.
+
+
+QUALITY OF STORES.
+
+As has been stated, it is fortunate that in both of the zones where
+cellar wintering is or might be practiced the natural stores usually
+are good. Honeys such as those from white and alsike clovers, sweet
+clover, alfalfa, wild raspberry, buckwheat, and willowherb are fine
+stores for winter, while honeys from basswood, heartsease (smart-weed),
+asters, goldenrod, and most of the other fall flowers are less
+desirable. It is especially important during the period when the
+bees are in the cellar that the stores shall be of the very finest
+quality, and it is therefore the practice of many good beekeepers to
+feed each colony 5 pounds or more of sirup made of granulated sugar
+Into in the fall, after all brood-rearing has ceased. This insures that
+the bees will have for their use, during the period of confinement in
+the cellar, stores which will not bring about the condition known as
+dysentery. In general it may be stated that honeys from mixed sources
+and dark honeys, except buckwheat, are to be avoided. Honeydew honeys
+are highly injurious and in all cases where such stores are present
+granulated sugar sirup should be fed.
+
+
+QUANTITY OF STORES.
+
+From the end of one honey season to the beginning of the next a good
+colony of bees will need fully 45 pounds of honey. When the bees are
+wintered in the cellar, it is usual not to have all of this honey in
+the one hive body in which they are wintered. It is a good practice
+to have at least 20 pounds within this hive, although 15 pounds will
+be safe. It is absolutely imperative, however, that the remainder of
+the 45 pounds shall be available to be given to the bees soon after,
+they are taken from the cellar. The most common cause of poor colonies
+in the spring is poverty, directly due to neglect on the part of the
+beekeeper. A good beekeeper sees to it that at no time when brood is
+being reared do his bees have less than 15 pounds of stores in the
+hive, and the full amount of 45 pounds often will all be used, and is
+always needed if the colonies are to come to full strength on time
+for the gathering of the full crop. This amount is always augmented
+by honey from spring flowers, for 45 pounds of honey is not enough to
+bring a colony to full strength in time for the main honey-flow.
+
+
+
+
+ARRANGEMENT OF THE APIARY.
+
+
+Where bees are wintered in cellars the particular arrangement of the
+hives in the apiary is not so important a problem as where they are
+wintered on their summer stands, yet there are certain important
+considerations in the arrangement of the entire apiary which should be
+kept in mind.
+
+
+WIND PROTECTION.
+
+It is important that a place be chosen where the bees will be protected
+from cold winds in the spring after they are taken from the cellar
+and again in the fall before they are taken to the cellar. A grove of
+trees or an adjacent hill usually offers the best protection, or it
+is possible to make an artificial windbreak such as a high fence. A
+natural windbreak usually is better, for it is more extensive in most
+cases. Too much reliance should not be placed in buildings, for often
+they merely divert the wind slightly and may make conditions worse. A
+fence made of close boards usually is unsatisfactory, for it causes
+whirls.
+
+
+DISTANCE OF THE APIARY FROM THE CELLAR.
+
+To carry colonies of bees a long distance from the apiary to the cellar
+is not an easy task, even though the hives be light at that time of the
+year. It is best, therefore, that the apiary be located not more than
+50 yards from the cellar, and even this distance is objectionable. If a
+special cellar is built for the bees, the apiary should be so located
+that the cellar may be built immediately adjacent. If the bees are to
+be wintered in the cellar under the beekeeper's residence, the apiary
+should be located as near as possible to the cellar door.
+
+
+
+
+THE BEE CELLAR.
+
+
+In order that the beekeeper may have reason to expect success in cellar
+wintering, it is imperative that he give careful consideration to
+the construction of the bee cellar. There has been a tendency among
+beekeepers greatly to overestimate the value of their own cellars, and
+especially to assume that the conditions which they are able to get in
+their cellars are exactly correct.
+
+
+CELLAR UNDER THE RESIDENCE.
+
+Some of the best bee cellars are those under the residences of
+beekeepers, and in general such a cellar is better than one built
+especially for cellar wintering. This is because the temperature of
+such a cellar usually is quite a little higher than that in a specially
+constructed repository. The best results in cellar wintering have been
+obtained in cellars under residences which are heated by furnaces, thus
+having a higher cellar temperature. In such a cellar provision must
+be made for partitioning off a space where the bees will be located
+so that there is no light or other disturbing factor during the time
+of their confinement. Since a cellar temperature about 50бу F. is
+desirable, it is well to choose a part of the cellar through which some
+of the furnace pipes run, and if this results in too high a temperature
+these pipes may be insulated somewhat. It is best to choose a part of
+the cellar where there are no windows and where the outside walls are
+thoroughly protected to the top, either by a bank of soil or in some
+other fashion. This will result in a more equable temperature than
+is possible in a cellar exposed to sudden changes of temperature on
+the outside walls, for even a stone wall 18 inches thick will allow a
+considerable amount of heat to escape. In a cellar under a residence
+there will be abundant ventilation without any special provision
+being made for this. A test of the value of such a cellar is the even
+temperature which may be obtained, as will be discussed later.
+
+
+SPECIAL WINTER REPOSITORY.
+
+If properly constructed and protected, a special cellar or cave for the
+bees gives the best possible results in wintering, yet few such cellars
+have been built, for the reason that most beekeepers have omitted some
+vitally important factors. The usual fault is in having too great a
+variation in temperature and in giving excessive ventilation, which in
+turn causes fluctuations in temperature.
+
+
+SOIL AND CONTOUR OF THE SURFACE OF THE GROUND.
+
+To provide good drainage and adequate ventilation for the bee cellar
+without making any special ventilators, it is desirable to build it in
+a sandy hillside. If it is possible to choose a place for the cellar
+where the snow drifts deeply, this will afford a valuable addition
+to the insulation of the cellar. If the cellar is on level ground,
+drifting of snow may be increased by the proper building of open
+fences, such as are used to prevent drifting over railway tracks.
+
+If it is impossible to utilize a sandy hillside, it will be necessary
+to build walls and a floor for the cellar and to make adequate
+provision for the drainage of the cellar. The hillside cellar has, the
+great advantage of having easy drainage.
+
+
+CAPACITY OF THE CELLAR.
+
+If the bees are kept in apiaries of perhaps 100 colonies and if a
+cellar is built for each apiary, then it is possible to build a cellar
+of just the right capacity. If a central cellar is built for all the
+apiaries and the bees in outapiaries are brought into the home apiary
+for winter, the beekeeper will wish to build the cellar sufficiently
+large for future expansion of his business, and beekeepers are finding
+out, that they can keep many more colonies of bees than they formerly
+thought possible. Perhaps the better plan is to have a cellar in each
+apiary.
+
+[Illustration: Fig. 2.--Interior of bee cellar with hives In piles of
+four. Insulation above the ceiling is not shown.]
+
+The usual practice is to allow 1-1/2 to 2 square feet of floor surface
+for each colony, on the assumption that the colonies will be placed in
+piles of four (fig. 2). It is not desirable to pile hives higher than
+this, if the cellar roof is 6-1/2 feet high in the clear, and it is
+difficult to lift heavy hives any higher than the number specified. For
+an apiary of 100 colonies, it will be found desirable to have a cellar
+10 feet wide and from 15 to 20 feet long, clear of the inner walls. If
+one is just getting a start in beekeeping he should build his cellar on
+the assumption that later he will increase the number of his colonies,
+and should allow for this, for it is better to have the cellar too
+large than too small.
+
+
+WALLS AND FLOOR.
+
+It has been claimed by many beekeepers that concrete walls and floor
+are not desirable, yet if the cellar is properly insulated there is no
+better material. If the cellar is built in a hillside of sandy soil,
+wooden sides will be satisfactory and no floor other than the soil need
+be provided. In such soil the drainage is good and the only function
+of the side walls is to hold the sides up to prevent caving in. In a
+moist soil a concrete floor and walls should be built, and the concrete
+should be waterproof. Under no circumstances should any of the side
+walls below the ceiling be exposed above ground.
+
+[Illustration: Fig. 3.--Diagram of bee cellar. Clearance 6-1/2 feet,
+ceiling 2-1/2 feet below ground level, packed with about 11 feet of
+sawdust.]
+
+
+ROOF.
+
+The ceiling of the cellar should be below ground level sufficiently to
+bring it below the level of frost. For the regions where bees should be
+wintered in cellars this usually will be at least 2-1/2 feet below the
+level of the ground (fig. 3). The ceiling should be 6-1/2 feet above
+the floor, just sufficiently high to permit a tall man to work with
+comfort. If the ceiling is higher it will result usually in too low a
+temperature at the floor. The ceiling then should be covered completely
+on top with some insulating material, such as sawdust, and if sawdust
+is used it should be piled on about 1-1/2 feet thick. Unless about this
+amount of protection is given on the ceiling it will be impossible to
+get the right cellar temperature during the coldest part of the winter.
+If the cellar is built in a sandy soil, it is possible to use the soil
+as a cover for the ceiling, in which event about 3 feet of soil should
+be placed over the inner roof of the cellar. The entire insulating
+material, of whatever kind used, should then be protected from rain
+and snow by having a roof over it. This roof should project at least
+2 feet, preferably more, beyond the outside of the cellar wall, and
+provision should be made for currying off the water from the roof.
+
+In case the beekeeper desires to build an apiary house over the bee,
+cellar, as is done frequently, he must provide a floor for this house
+at least at ground level, and he can not successfully use the ceiling
+of the cellar as the floor of the upper house. There is no objection to
+building a house above the cellar if adequate protection is given the
+cellar, but it must not be assumed that the house offers any material
+insulation to the cellar, for in most cases these houses are not heated
+in the winter. The relation of the house floor to the ceiling of the
+cellar is shown in figure 3.
+
+
+ENTRANCE TO THE CELLAR.
+
+Frequently the entrance is a weak spot in the insulation of the cellar,
+and it is useless to protect the roof and sides unless care is used in
+the building of the entrance. If the entrance is at the end or one side
+of the cellar, it will be necessary to build a sort of vestibule with
+double doors so that the heat of the cellar will not be lost rapidly.
+The heavier and thicker these doors, the better for the bees.
+
+The best type of vestibule is a long, narrow passage lending into the
+hillside, and it should be closed by doors at both the inside and
+outside ends. If possible the vestibule should be built and protected
+so that the temperature within the vestibule will never fall below
+freezing. In the building of the vestibule, also, the beekeeper should
+consider the ease with which the bees may be carried in and out of the
+cellar.
+
+
+DRAINAGE.
+
+As has been mentioned previously, the cellar must be well drained,
+either by natural or by artificial means. No stagnant water should be
+allowed to remain in the cellar, although at the higher temperatures
+of the best cellars this does less harm than it does in cellars that
+are too cold. Some beekeepers have advocated having a stream of water
+flowing through the cellar, and this will do no harm in warm cellars,
+and it may serve to assist somewhat in maintaining an even temperature.
+
+
+VENTILATION.
+
+One of the most serious faults of bee cellars is in providing for too
+much ventilation, resulting in great fluctuations in temperature. In a
+cellar which maintains a temperature of 50бу F. or more there is little
+need for ventilation, for the Was then need little oxygen and only a
+small amount of carbon dioxide is given off. Other things being equal,
+the colder the cellar, the greater the need of ventilation. If poor
+stores are in the hives, the bees will need more ventilation than will
+be desirable when good stores are used. In a warm cellar in a sandy
+hillside no ventilating shaft need be built.
+
+In any event, one shaft 6 inches square running through the ceiling of
+the cellar to the outside will be sufficient for any cellar that is fit
+for the wintering of bees. During the coldest part of the winter the
+interchange of air between the inside of the cellar and the outside
+will be materially increased by the great difference in temperature and
+this one ventilator may be entirely or nearly closed. During the milder
+weather of the fall and spring this amount of ventilation will do no
+harm. The top of the ventilating shaft, which should extend at least
+6 feet above the outer roof, may be painted black in order to induce
+greater movement of air when the sun shines. The shaft should be so
+arranged that it does not admit light to the cellar.
+
+
+
+
+PUTTING THE BEES INTO THE CELLAR.
+
+
+Before the bees are carried into the cellar it should be well aired
+and cleaned, and it will be well to keep it open for several days
+beforehand. No debris or refuse should be left in the cellar when the
+bees are taken in.
+
+
+TIME.
+
+For zone 1 (fig. 1) it is usually desirable to wait until about the
+middle of November before putting the bees into winter quarters. If one
+could know exactly when the bees would have the last opportunity for a
+cleansing flight, they would be put into the cellar just after that,
+but we can not always be sure that there will be suitable weather for
+such flight in late November, and there is, therefore, considerable
+doubt every year as to just the right time to put the bees away.
+Frequently it happens that the weather is suitable for a flight about
+November 20, and it is best to wait until then before attempting to put
+the bees in the cellar. The flight of only a few bees from the hive
+should not be construed as a cleansing flight. In this connection it is
+highly desirable that the beekeeper keep a careful watch of the weather
+maps daily, so that he may know at all times about what weather may be
+expected for a few days in advance. For the beekeeper's purpose the
+daily forecasts published in newspapers are scarcely enough; and if no
+daily weather maps are convenient near by, it will repay the beekeeper
+well to subscribe for them. They are valuable not only at the time of
+putting the bees into the cellar but at many other times of the year.
+
+Soon after a period when the barometric pressure has been low, bringing
+high temperatures suitable for flights (at least 60бу F.), there usually
+will be a period when the barometric pressure is high, bringing lower,
+temperatures. At the shifting from low to high barometric pressure
+there is frequently a time when it is cloudy. This is a fine time to
+put the bees into the cellar. These periods of high and low barometric
+pressure follow each other with rather marked regularity in the
+fall, and it is rather safe to assume that just at the end of the
+well-defined low pressure which next follows after November 15 is the
+best time to put the bees into the cellar. It is better to put the
+bees in the cellar a week or so before the last opportunity for flight
+than to put them in after exposure to cold which is not followed by a
+cleansing flight.
+
+For zone 2 it will be desirable to put the bees away a little earlier,
+although the oncoming of winter is not so much earlier in the North as
+one might imagine.
+
+
+HOW TO CARRY THE BEES.
+
+When one person carries the bees into the cellar the best method is to
+stand at the back of the hive and grasp the bottom of the hive with
+both hands. The hive is then lifted and the cover brought up against
+the chest firmly, permitting the operator to walk without interference
+and with a minimum of stooping. If there are cleats on the ends of the
+hive bodies, those may be rested on the forearms, although with this
+method there is some danger that the bottoms will drop off unless they
+are stapled.
+
+If the temperature is sufficiently low (slightly above freezing),
+there will be no need of closing the entrances when the bees are being
+carried in. Every care should be taken not to jar the hives more than
+is absolutely necessary from the time that they are lifted until they
+are in their final place in the cellar.
+
+If more than one person is engaged in carrying in the hives, the hives
+may be placed carefully on carriers with handles, and two or more of
+them may be carried at one time.
+
+
+HOW TO STACK THE HIVES.
+
+The bottom hive in a pile should rest on an empty hive body or some
+other such support of about that size (figs. 2 and 3). The hives then
+should be placed one on top of the other until they are four high.
+It is best by far to put each pile of four hives about 6 inches from
+adjacent piles, so that in handling the hives on one pile there is no
+disturbance of bees in other piles. Allowance is made for this space
+between the piles of hives in the estimate of the floor space needed
+for each colony (p. 9).
+
+
+
+
+MAINTENANCE OF THE CELLAR DURING THE WINTER.
+
+
+If the cellar is properly constructed it will need little if any
+care during the time that the bees are inside. It is only the poor
+bee cellar which requires constant attention to prevent changes in
+temperature.
+
+
+TEMPERATURE OF THE CELLAR.
+
+There has been much discussion as to the best temperature of the cellar
+during the winter. Commonly it is stated that a temperature of 40бу to
+45бу F. is best, but this is colder than usually is best for the finest
+results. A temperature below 40бу F. is invariably bad for the bees, and
+a cellar in which the temperature goes as low as freezing is not a fit
+place for bees.
+
+It has been found by the authors that bees do the least amount of work
+when the temperature of the air immediately surrounding them (inside
+the hive) stands at 57бу F. This is, therefore, the temperature which
+the beekeeper should bear in mind, rather than to lay too much stress
+on the temperature of the cellar itself. The place for a thermometer
+in the bee cellar is inside the entrance of a good colony where it may
+be read easily by simply pulling it out. A chemical thermometer is
+best for this purpose, and it should register 52бу F. or more inside
+the hive entrance. In order to have the right temperature within the
+hive it usually will be best to have the temperature of the cellar at
+about 50бу F. or slightly higher. As will be shown later, however, it is
+quite possible to have the right temperature within the hive when the
+temperature of the cellar is a few degrees lower than that stated.
+
+If the beekeeper will pay attention to the temperature of the interior
+of the hive he will find that in colder cellars it is desirable to give
+the hives some insulation to conserve the heat generated by the bees
+in much the same way that this heat is conserved when bees are packed
+outdoors, although the amount of protection will be much less. In a
+cellar where the temperature falls to 45бу F. it will be found best
+to have the covers of the hives sealed on tightly and the entrances
+reduced to 3/8 inch by 2 inches. In a cellar with a temperature of 50бу
+F. or more the entrances may be left open the full width of the hive.
+If there is a tendency for the temperature to fall to 45бу F. or less,
+the tops of the hives may be protected by cushions of chaff or other
+materials placed at least on the top of the uppermost hives, for each
+of the lower three hives is protected somewhat by the one above it.
+
+It will be impossible to maintain the temperatures recommended unless
+the cellar is built in the way described, or in some other way by which
+the cellar is equally well insulated. It is impossible to maintain an
+equable and high temperature in a cellar the walls and ceiling of which
+are exposed to the outside air.
+
+
+VENTILATION OF THE CELLAR.
+
+If the proper temperature is maintained in the cellar there will be
+little need of ventilation, for in almost all cases there will be
+sufficient interchange of air to keep the bees in good condition.
+If the temperature is as low as 45бу F., a little ventilation will be
+needed, although most of the bee cellars that have been built have
+had too much ventilation, and as a result it has been impossible
+to maintain a correct temperature within them. In cold weather the
+tendency toward an interchange of air is greatest, and at such times
+the ventilators may be entirely closed. In mild weather it makes no
+difference if large ventilators are open, unless this results in too
+great a rise in temperature.
+
+In a well-insulated cellar it should not be necessary to ventilate at
+night at the approach of spring to cool the air inside, for the bees
+will not get so warm from their own activity as will bees in a cellar
+that is or has been too cold. The greatest problem in most cellars is
+to maintain the right temperature during the spring just before the
+bees are to be removed. The trouble is that in most cellars--those
+which are too cold in winter--the bees generate heat constantly
+during the winter and as a result have an accumulation of feces in
+the intestines, resulting in a condition known as dysentery. For this
+reason they become excited easily, and beekeepers have thought it
+necessary to ventilate the cellar at night freely in order to remedy
+this trouble. The proper method, of course, is to prevent it by keeping
+the temperature higher during the winter, but if the temperature has
+fallen too low during the winter ventilation at night seems to help
+somewhat. It is safe, however, to say that a cellar in which this
+happens is not satisfactory as a place to keep bees during the winter,
+and steps should be taken to insulate it more completely before bees
+are put into it again. If the bees are wintering on stores that are
+not of the best quality the tendency to accumulate feces will be far
+greater, even with the right temperatures inside the hives, and if
+there is dysentery it may be relieved somewhat by ventilation, although
+this is simply reducing a symptom and is not removing the cause of the
+trouble.
+
+
+VENTILATION OF THE HIVE.
+
+Since bees in a good cellar require little ventilation, practically no
+attention need be paid to this subject if the cellar has been built in
+the way advised. If the temperature of the cellar tends to fall too
+low, it is advisable to reduce the entrances of the hives, for with a
+greater difference between the temperatures within and outside the hive
+the tendency for interchange of air will be correspondingly greater. In
+any cellar fit for the wintering of bees it will be neither necessary
+nor desirable to ventilate the hives at the top, as sometimes has been
+recommended.
+
+The ventilation of the hive within the cellar is not so much for the
+elimination of foul air as for the escape of moisture, and therefore
+the amount of ventilation needed for the hive depends upon the
+humidity of the air within the cellar. If the temperature of the cellar
+is kept high enough there will be no condensation of moisture within
+the hive, and if water is ever observed on the covers of the hives
+it is conclusive proof that the cellar is too cold for the bees. In
+a cellar so cold that condensed moisture shows on the bottoms of the
+hives stops should be taken at once to raise the temperature.
+
+Various attempts have been made in the past to provide for the cellar
+fresh air which has been warmed somewhat before entry. The most common
+method is to have the air pass through tiles under ground for perhaps
+100 feet before it enters the cellar. In general, it may be said that
+none of these devices has been worth the trouble and expense involved
+and none of them has served the purpose for which it was intended. It
+has been proposed also to ventilate the bee cellar by wind pressure.
+The devices which have been made for such ventilation will function
+only when there is considerable wind and then only when the wind is in
+the right quarter; therefore they are not at all to be recommended. By
+far the best plan is simply to build the bee cellar correctly, for,
+then little ventilation will be needed.
+
+
+CLEANING THE CELLAR.
+
+In even the best of cellars there will be some dead bees on the
+floor, and those may be cleaned up once or twice during the winter.
+In a cellar with proper temperature there will be few dead bees until
+after the middle of the winter, but the death rate increases toward the
+close of the winter. If the cellar is cleaned, it should be done with
+as little disturbance as possible. No bright light should be admitted
+at this time, although a moderate amount seems to do little harm until
+after the bees have an accumulation of feces in the intestines.
+
+
+REMOVING THE BEES FOR FLIGHT DURING THE WINTER.
+
+Some beekeepers have advocated removing the colonies toward the end
+of the winter for a flight on some warm day and then replacing them,
+on the supposition that the flight would enable the bees to stand a
+longer period of confinement. It is found, however, that if bees are
+disturbed, as by carrying them out, they begin brood-rearing almost
+invariably, and this does more harm than the flight does good.
+
+
+DISTURBANCE DURING THE WINTER.
+
+Work in or about the bee cellar while the bees are confined should
+be done with the least possible disturbance of the bees, for often a
+little handling or jarring of the hive causes sufficient excitement
+to increase the temperature of the cluster to the point where
+brood-rearing begins. This is true especially in late winter. It is
+by far the wisest plan, therefore, to stay out of the cellar during
+the winter, except on the few occasions when a little work, such as
+cleaning out, makes a visit seem needed. Care should be taken not to
+jar the hives or to allow light to strike the entrance. Of course, if
+bees are being wintered in a cellar which has the right temperature, a
+little disturbance does little or no harm, but there is no reason why
+bees should be disturbed in winter and the beekeeper should not run
+any risk of starting brood-rearing.
+
+
+
+
+REMOVAL OF THE BEES FROM THE CELLAR.
+
+
+TIME.
+
+The old rule of many beekeepers is to take the bees from the cellar
+when the soft maples are in bloom. This is an excellent rule in
+localities where there are trees of this species. In general, in zone 1
+the right time to take the bees out of the cellar is about the time of
+the spring equinox (March 21).
+
+In choosing a time for the removal of the bees, the beekeeper again
+should watch the weather maps closely. He should choose a time
+when a high-pressure area is just passing and at the approach of
+a well-defined low-pressure area. At such a time the weather will
+be cool, not permitting the bees to fly, but at the time of the
+low-pressure area the weather will become warmer, allowing the good
+flights, which are then badly needed.
+
+If the bees are taken out at a time when they can fly at once--and some
+beekeepers prefer this--they should be taken out in the early morning,
+so that they can have a good flight before night. Bees should not be
+taken from the cellar at a time when they can fly only a little, but
+they should either be taken out when they can not fly at all or at a
+time when they can fly freely almost at once. Bees in good condition
+rarely fly freely unless the outside temperature is as high as 60бу F.
+
+
+PREVENTION OF DRIFTING.
+
+When the bees are taken from the cellar and placed on their summer
+positions they sometimes tend to leave the weaker, colonies and on
+their return to collect in those with greater populations. This is
+known as "drifting." In general, the bees tend to drift toward the
+windward side of the apiary. Most frequently they join the hives that
+were first set out and which have established a strong flight by the
+time the neighboring colonies have first taken wing. The tendencies,
+therefore, are to join flying colonies, stronger colonies, and the
+end colonies in a row. The condition of the bees plays a large part
+in drifting, for if the bees are badly in need of a flight because of
+dysentery they go at once into the air without properly marking the
+location of their hive, and therefore are not able to find it when they
+return.
+
+To prevent drifting, it is best to set the bees out when it is too cold
+for them to fly, so that as the weather warms, permitting flight, this
+will take place more naturally. It is also well to reduce the entrances
+so that as the bees leave the hive their tendency to orient themselves
+will be greater. It is claimed by some beekeepers that if the cellar
+is well aired the night before the bees are to be removed, they will
+be in better condition and will drift less, but it is not clear what
+difference this can make unless the clusters are made tighter because
+of lower temperatures.
+
+Beekeepers have discussed the question whether, after removal, the bees
+should be placed on the same stands occupied by them the fall before.
+If the bees could remember their old location so that they would return
+to it, even after an interval of four months, it would be necessary,
+or at least desirable, to place each colony on the same stand which it
+occupied previously. There is no evidence, however, that the memory
+of the bees is so good, and it is usually the ease that the bees of a
+colony will lose the memory of location within a week; therefore no
+attention need be paid to this feature.
+
+
+PROTECTION OF THE HIVES IN THE SPRING.
+
+The greatest objection to wintering bees in cellars is that after they
+are removed they are exposed to low temperatures. The ideal practice
+would be to pack the bees after taking them out in much the same way
+that bees are packed for outdoor wintering, but the work involved makes
+this impracticable. There can be no doubt that protection at this
+time would be beneficial. As has been pointed out, the apiary site
+should be one in which the hives are well protected from wind, and it
+is advantageous if the apiary grounds slope toward the south in order
+that the bees may have the fullest advantage of heat from the sun. If
+the bees have been wintered in the cellar in double-walled hives they
+will have the advantage of some protection when they are taken from
+the cellar. The beekeeper may feel safe in giving the bees all the
+protection possible at the time that they are taken from the cellar,
+knowing that it is impossible at this time or any other to insulate the
+hive too well.
+
+In deciding whether the hives should be packed in the spring the
+beekeeper should be governed largely by the condition of the bees. If
+they have wintered well they will be able to stand greater extremes of
+temperature in the spring without loss, but if they have been wintered
+in a cold cellar they will be greatly injured by cold weather after
+they have been set out. Of course, the need of protection is determined
+chiefly by the kind of weather prevailing during the first few weeks
+after the bees have been taken from the cellar. In some seasons the
+weather is so fine that the bees would be little benefited by packing
+or other protection, but the beekeeper can not influence the weather,
+and the only safe plan is so to place the bees that if the weather
+does turn cold they will still be safe. Here, as everywhere else in
+beekeeping, it pays to be on the safe side, so far as protecting the
+bees is concerned.
+
+
+
+
+PROVIDING BREEDING ROOM AND STORES IN THE SPRING.
+
+
+After the main honey-flow is past it is usually desirable that each
+colony be kept in two hive bodies of full depth. Most producers of
+extracted honey do this, but too many producers of comb-honey are not
+adequately supplied with hive bodies and do not give the second body.
+These two hive bodies should be left with the bees at least until
+brood-rearing ceases, and at this time one of them should be removed if
+the bees are to be wintered in the cellar. As has been pointed out in
+other bulletins of the department, if the bees are wintered outdoors
+they will do better in the two hive bodies throughout the winter.
+
+In the upper hive body will be found a considerable amount of the
+honey to be used by the bees up to the time of the next honey-flow.
+Usually there will be enough in the lower hive body for the bees while
+they are in the cellar, especially where comb-honey is produced, but
+if the lower hive body is not adequately supplied with winter stores
+(perhaps 15 to 20 pounds) the beekeeper should move some of the stores.
+It is also a good practice to winter the bees in the cellar in a hive
+containing the full stores, except that this makes it necessary to
+carry in hives weighing perhaps 80 pounds.
+
+After the second hive bodies have been removed, if they contain honey
+they should be stored in a warm, dry place, where the honey will not
+be injured. If it is possible to place such hive bodies in the furnace
+room of the residence, this will be found to be ideal. If no such
+place is available, the beekeeper may keep these in a dry cellar or
+other location where the honey will not be exposed to rapid changes
+in temperature. For this purpose a place suitable for the storage of
+comb-honey is desirable. It should be pointed out that the honey in
+these combs should not be extracted. It will be needed for the building
+up of the colonies the next spring, and to remove it is simply to
+reduce the crop of the next season.
+
+Some time within two weeks after the bees have been taken from the
+cellar, depending on the weather, each colony should be provided with
+its second hive body. Preferably, this should be placed underneath the
+hive body in which the bees were wintered in order that the propolis
+at the top of the hive may not be broken. At this time an examination
+of the colonies may be made from below to see whether any of them
+are queenless or require immediate attention for other reasons, but
+at this season there is little that the beekeeper can do that will
+help the bees other than to provide them with room for the brood and
+with adequate supplies of stores. Queens should not be clipped at
+this time, and usually not until settled weather has arrived. Further
+spring manipulation is not necessary and the bees are better off if the
+beekeeper lets them alone.
+
+If the bees have been requeened at the proper time and if the total
+amount of stores is given as indicated, it will not be worth while
+to go through the bees to look for queenless colonies. The beekeeper
+should see to it that at least 45 pounds of honey are provided for
+each colony from the time of the last honey-flow in the fall to the
+beginning of the first main honey-flow of the following season. If this
+is not given in full, the beekeeper may be sure that the crop of the
+following year will be reduced. This amount of honey left for the use
+of the bees is a better investment for the beekeeper than money in the
+bank.
+
+It should be pointed out that the giving of a second hive body in the
+spring is not simply a means of supplying additional stores, but more
+than one hive body will be needed for the development of the brood. A
+single 10-frame Langstroth hive is not large enough for the development
+of a good colony of bees, which, before the beginning of the main honey
+flow, should have brood to fill at least 12 frames.
+
+As was stated earlier in this bulletin, a colony of bees from one
+season to the next needs three things in abundance--room for the
+development of the brood, stores of good quality, and protection from
+wind and cold. In cellar wintering the protection is given by putting
+the bees in the cellar; the room and stores must be supplied later or
+the population of the colony will be reduced at the critical time of
+the honey-flow. If the early sources of honey are abundant, the amount
+of honey advised will not be consumed. The wise beekeeper, however,
+does not gamble on the early honey-flows, but invests this honey as
+life insurance for his bees.
+
+
+
+
+MEASURES OF SUCCESS IN CELLAR WINTERING.
+
+
+It is often difficult for the beekeeper to know whether his bee
+cellar is giving the best results, for he may not have been able to
+determine from reading or the observation of other cellars whether it
+is satisfactory. The writers, therefore, have attempted below to give
+a few measures which the beekeeper may apply to his apiary and his
+cellar, so that he may be able to decide whether his methods of cellar
+wintering should be improved.
+
+(1) During the winter a thermometer inserted in the entrance of the
+hive should show a temperature of at least 52бу F.
+
+(2) There should never be any condensed moisture on the covers of the
+hives, and certainly never any on the bottoms.
+
+(3) While, the cellar should be kept dark at all times, if a candle
+is held at the entrance of a hive at the end of January it should be
+several seconds before any of the bees break cluster. Frequently the
+cellar doors may be opened in March without disturbing the bees.
+
+(4) There should never be many dead bees on the bottom of the hives.
+The live bees should be able to push them out as they die during the
+winter. The bees thus carried out will be found on the cellar floor
+just below the entrances. If there are bees all over the floor, it
+shows that these bees have flown from the hives--an indication of poor
+wintering.
+
+(5) The bees should be quiet during the late winter. Noise at this time
+indicates that the bees are disturbed by an accumulation of feces,
+caused by low temperatures or poor food.
+
+(6) If the bees were in good condition in the fall and have been
+wintered well, the loss during the winter will never be more than
+one-sixth of the total population of the hive. Such a loss is
+excessive, however, and in a well-wintered colony it may be as low as
+a hundred bees. This probably depends to a large extent on the age of
+the bees which go into winter, and if the temperature is right and the
+stores good there will be almost no loss of vigorous bees.
+
+(7) The bees should not leave the hive while they are being carried
+from the cellar. If they do, it indicates that they are excited by an
+accumulation of feces.
+
+(8) Before removal from the cellar there should be no spotting of the
+hives from dysentery. There may be a little spotting after the bees
+have had a free flight outside, but if this is small in amount it does
+not indicate a serious condition.
+
+(9) When the bees are taken from the cellar there should be no moldy
+combs, for the cellar at the right temperature will be too dry for the
+growth of molds.
+
+(10) There should be no brood when the colonies are taken from the
+cellar. Brood-rearing in the cellar is proof that the cellar is too
+cold or that the food used by the bees is inferior.
+
+(11) Enough brood should be in each colony at the opening of the main
+honey-flow to fill completely 12 Langstroth frames.
+
+(12) The population of the hive should not decrease appreciably after
+the bees are removed from the cellar. Such a condition, known as spring
+dwindling, is an indication of poor wintering. For three weeks after
+the hives are set out no new bees will be emerging, but the loss of
+bees during this time should be so small as not to be noticeable.
+
+
+
+
+THE PRESIDENT TO THE FARMERS OF AMERICA.
+
+[Extracts from President Wilson's message to the Farmers' Conference at
+Urbana, Ill., January 31, 1918.]
+
+
+The forces that fight for freedom, the freedom of men all over the
+world as well as our own, depend upon us in an extraordinary and
+unexpected degree for sustenance, for the supply of the materials by
+which men are to live and to fight, and it will be our glory when the
+war is over that we have supplied those materials and supplied them
+abundantly, and it will be all the more glory because in supplying them
+we have made our supreme effort and sacrifice.
+
+In the field of agriculture we have agencies and instrumentalities,
+fortunately, such as no other government in the world can show. The
+Department of Agriculture is undoubtedly the greatest practical and
+scientific agricultural organization in the world. Its total annual
+budget of $46,000,000 has been increased during the last four years
+more than 72 per cent. It has a staff of 18,000, including a large
+number, of highly trained experts, and alongside of it stands the
+unique land grant colleges, which are without example elsewhere, and
+the 69 State and Federal experiment stations. These colleges and
+experiment stations have a total endowment of plant and equipment
+of $172,000,000 and an income of more than $35,000,000 with 10,271
+teachers, a resident student body of 125,000, and a vast additional
+number receiving instructions at their homes. County agents, joint
+officers of the Department of Agriculture and of the colleges, are
+everywhere cooperating with the farmers and assisting them. The
+number of extension workers under the Smith-Lever Act and under the
+recent emergency legislation has grown to 5,500 men and women working
+regularly in the various communities and taking to the farmer the
+latest scientific and practical information. Alongside these great
+public agencies stand the very effective voluntary organizations among
+the farmers themselves which are more and more learning the best
+methods of cooperation and the best methods of putting to practical
+use the assistance derived from governmental sources. The banking
+legislation of the last two or three years has given the farmers access
+to the great lendable capital of the country, and it has become the
+duty both of the men in charge of the Federal Reserve Banking System
+and of the Farm Loan Banking System to see to it that the farmers
+obtain the credit, both short term and long term, to which they are
+entitled not only, but which it is imperatively necessary should
+be extended to them if the present tasks of the country are to be
+adequately performed. Both by direct purchase of nitrates and by the
+establishment of plants to produce nitrates, the Government is doing
+its utmost to assist in the problem of fertilization. The Department
+of Agriculture and other agencies are actively assisting the farmers to
+locate, safeguard, and secure at cost an adequate supply of sound seed.
+
+The farmers of this country are as efficient as any other farmers
+in the world. They do not produce more per acre than the farmers in
+Europe. It is not necessary that they should do so. It would perhaps
+be bad economy for them to attempt it. But they do produce by two to
+three or four times more per man, per unit of labor and capital, than
+the farmers of any European country. They are more alert and use more
+labor-saving devices than any other farmers in the world. And their
+response to the demands of the present emergency has been in every way
+remarkable. Last spring their planting exceeded by 12,000,000 acres
+the largest planting of any previous year, and the yields from the
+crops were record-breaking yields. In the fall of 1917 a wheat acreage
+of 42,170,000 was planted, which was 1,000,000 larger than for any
+preceding year, 3,000,000 greater than the next largest, and 7,000,000
+greater than the preceding five-year average.
+
+But I ought to say to you that it is not only necessary that these
+achievements should be repeated, but that they should be exceeded.
+I know what this advice involves. It involves not only labor but
+sacrifice, the painstaking application of every bit of scientific
+knowledge and every tested practice that is available. It means the
+utmost economy, even to the point where the pinch comes. It means the
+kind of concentration and self-sacrifice which is involved in the
+field of battle itself, where the object always looms greater than the
+individual. And yet the Government will help and help in every way that
+it is possible.
+
+It was farmers from whom came the first shots at Lexington, that set
+aflame the Revolution that made America free. I hope and believe that
+the farmers of America will willingly and conspicuously stand by to win
+this war also. The toil, the intelligence, the energy, the foresight,
+the self-sacrifice, and devotion of the farmers of America will, I
+believe, bring to a triumphant conclusion this great last war for the
+emancipation of men from the control of arbitrary government and the
+selfishness of class legislation and control, and then, when the end
+has come, we may look each other in the face and be glad that we are
+Americans and have had the privilege to play such a part.
+
+
+
+
+THE BUSINESS OF AGRICULTURE.
+
+[Extracts from addresses.]
+
+
+The next great factor to enlist for the betterment of Agriculture
+and rural life in this Nation is the business man of the town and
+the city. He has not always been alive to his obligations. He has
+contented himself, in too many instances, with plans to secure profit
+in agricultural trade, instead of sympathetically and eagerly planning
+constructive assistance. This duty, pressing in peace time, is of the
+most urgent and impelling character in this crisis; and I appeal to the
+bankers and business men to see that they omit no effort to familiarize
+themselves with the agencies serving to aid the farmers and to promote
+wise plans to secure the necessary results.
+
+D. F. Houston, Secretary of Agriculture.
+
+
+In the interest of our national development at all times and in the
+interest of war efficiency just now our agriculture must be well
+maintained. It should be remembered that the agricultural unit is
+a small unit. There are 6,000,000 farms in this country, each an
+individual unit. It is to the interest of persons who do not live on
+farms, even more than to the interest of those who do live on farms,
+that production shall be kept up. This means that all people, not
+farmers alone, but those who live in cities as well as the farmers,
+are interested in experimental and educational activities along
+agricultural lines as conducted by the Federal Government and the
+States. These efforts should be liberally supported.
+
+R. A. Pearson, Assistant Secretary of Agriculture.
+
+
+In a time like this no man has a moral right, whatever his fortune
+may he, to employ another man to render any service of mere comfort
+or convenience. When the finest young men of the United States are
+in France digging ditches, sawing lumber, laying rails, and playing
+with death, and when the finest young women of the United States are
+scrubbing floors in hospitals, it is a sin that almost approaches the
+unpardonable offense against civilization for any man or women in the
+United States to engage in a wasteful or unnecessary service.
+
+Clarence Ousley, Assistant Secretary of Agriculture.
+
+
+
+       *       *       *       *       *
+
+
+
+
+Transcriber Note
+
+
+
+
+
+
+
+
+
+
+End of the Project Gutenberg EBook of USDA Farmers' Bulletin No. 1014:
+Wintering Bees in Cellars, by E. F. Phillips and George S. Demuth
+
+*** END OF THIS PROJECT GUTENBERG EBOOK USDA FARMERS' BULLETIN NO. 1014 ***
+
+***** This file should be named 59485-8.txt or 59485-8.zip *****
+This and all associated files of various formats will be found in:
+        http://www.gutenberg.org/5/9/4/8/59485/
+
+Produced by Tom Cosmas compiled from images made available
+by The Internet Archive.
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the United
+States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for the eBooks, unless you receive
+specific permission. If you do not charge anything for copies of this
+eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given
+away--you may do practically ANYTHING in the United States with eBooks
+not protected by U.S. copyright law. Redistribution is subject to the
+trademark license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country outside the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you'll have to check the laws of the country where you
+  are located before using this ebook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm web site
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from both the Project Gutenberg Literary Archive Foundation and The
+Project Gutenberg Trademark LLC, the owner of the Project Gutenberg-tm
+trademark. Contact the Foundation as set forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+
+
+Section 3. Information about the Project Gutenberg Literary Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's principal office is in Fairbanks, Alaska, with the
+mailing address: PO Box 750175, Fairbanks, AK 99775, but its
+volunteers and employees are scattered throughout numerous
+locations. Its business office is located at 809 North 1500 West, Salt
+Lake City, UT 84116, (801) 596-1887. Email contact links and up to
+date contact information can be found at the Foundation's web site and
+official page at www.gutenberg.org/contact
+
+For additional contact information:
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without wide
+spread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works.
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our Web site which has the main PG search
+facility: www.gutenberg.org
+
+This Web site includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
