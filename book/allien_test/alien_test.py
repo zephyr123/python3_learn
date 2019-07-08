@@ -1,5 +1,6 @@
 import sys
 import pygame
+from pygame.sprite import Group
 from settings import Settings
 from hero import Hero
 import game_functions as gf
@@ -11,11 +12,15 @@ def run_game():
         (ai_settings.screen_width,ai_settings.screen_height))
     pygame.display.set_caption("Alien test")
     hero = Hero(ai_settings,screen)
+    #创建一个用于存储子弹的编组
+    bullets = Group()
 
     while True:
-        gf.check_events(hero)
+        gf.check_events(ai_settings,screen,hero,bullets)
         hero.update()
-        gf.update_screen(ai_settings,screen,hero)
+        gf.update_bullets(bullets)
+
+        gf.update_screen(ai_settings,screen,hero,bullets)
 
 run_game()
 
