@@ -23,7 +23,7 @@ def run_game():
         gf.check_events(ai_settings,screen,ship,bullets)
         ship.update()
         gf.update_bullets(bullets)
-        print(len(bullets))
+        # print(len(bullets))
         #每次循环时都重绘屏幕
         gf.update_screen(ai_settings, screen,ship,bullets)
 
